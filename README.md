@@ -231,7 +231,7 @@ A senior specialist will contact you within 24 hours.
 ## 👨‍💻 Author
 
 **Kurra Sriharsha**
-- GitHub: [@YourUsername](https://github.com/YourUsername)
+- GitHub: [@kurrasriharsha26](https://github.com/kurrasriharsha26/customer-support-agents)
 
 ---
 
