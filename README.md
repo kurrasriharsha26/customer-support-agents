@@ -139,7 +139,13 @@ cd customer-support-agents
 
 ---
 
-<img width="1903" height="1007" alt="Output1" src="https://github.com/user-attachments/assets/1e3eff8c-e020-4a16-ab18-5eb45d289cb5" />
+<img width="1915" height="1017" alt="1" src="https://github.com/user-attachments/assets/0a40cd79-531f-4c02-8e84-f7b4703fa9b5" />
+
+<img width="1916" height="991" alt="Output2" src="https://github.com/user-attachments/assets/9da28136-977e-450a-a959-386c1321221f" />
+
+<img width="1903" height="1007" alt="3" src="https://github.com/user-attachments/assets/cfb0e593-d8fe-4bc5-8cbe-73568af58d60" />
+
+
 
 ## 💬 Example Interaction
 ╔══════════════════════════════════════════╗
