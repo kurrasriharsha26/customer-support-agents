@@ -14,7 +14,7 @@ import java.util.List;
 
 public class AnthropicClient {
 
-    private static final String MODEL = "gemini-2.0-flash-lite";
+    private static final String MODEL = "gemini-3.5-flash-lite";
     private final HttpClient httpClient;
     private final ObjectMapper mapper;
     private final String apiKey;
